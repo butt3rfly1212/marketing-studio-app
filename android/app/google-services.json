@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590483114270",
+    "firebase_url": "https://ai-marketing-66997-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ai-marketing-66997",
+    "storage_bucket": "ai-marketing-66997.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590483114270:android:8b6f4b6f62d88b2f18a10f",
+        "android_client_info": {
+          "package_name": "com.butt3rfly.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590483114270-tcr2tmg3rltgjs6navvu0lre2fpijdfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcB4W2BLJdgrTC_f7pKDqliYLTAceGEKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590483114270-tcr2tmg3rltgjs6navvu0lre2fpijdfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
